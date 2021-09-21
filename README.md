@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kade-Powell
-- 👀 I’m interested in networking and everything that is programming.
-- 🌱 I’m currently learning Rust.
+- 👀 I’m interested in networking and programming.
+- 🌱 I’m currently learning Rust, and Go.
 - 📫 How to reach me kadepowell@gmail.com
 
 <!---
